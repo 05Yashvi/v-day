@@ -10,9 +10,9 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
+    "no",
     "Are you positive? 🤔",
-    "Pookie please... 🥺",
+    "Sunshine please... 🥺",
     "If you say no, I will be really sad...",
     "I will be very sad... 😢",
     "Please??? 💔",
@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
+    "try saying yes first... I bet you want to know what happens 😏",
+    "go on, hit yes... just once 👀",
     "you're missing out 😈",
-    "click no, I dare you 😏"
+    "click yes, I dare you 😏"
 ]
 
 let yesTeasedCount = 0
